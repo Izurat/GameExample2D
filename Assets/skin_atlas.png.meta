@@ -1,0 +1,363 @@
+fileFormatVersion: 2
+guid: 05526c2dc9b80c245bdbd5c166e5fda5
+timeCreated: 1473773866
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: skin_atlas_0
+    21300002: skin_atlas_1
+    21300004: skin_atlas_2
+    21300006: skin_atlas_3
+    21300008: skin_atlas_4
+    21300010: skin_atlas_5
+    21300012: skin_atlas_6
+    21300014: skin_atlas_7
+    21300016: skin_atlas_8
+    21300018: skin_atlas_9
+    21300020: skin_atlas_10
+    21300022: skin_atlas_11
+    21300024: skin_atlas_12
+    21300026: skin_atlas_13
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: skin_atlas_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 309
+        width: 96
+        height: 194
+      alignment: 9
+      pivot: {x: 0.38758376, y: 0.8615855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.208042, y: 26.852417}
+        - {x: -37.208042, y: 24.852417}
+        - {x: -37.208042, y: -62.147583}
+        - {x: -14.208042, y: -162.14758}
+        - {x: 0.79195786, y: -167.14758}
+        - {x: 21.791958, y: -167.14758}
+        - {x: 58.791958, y: -149.14758}
+        - {x: 58.791958, y: 0.852417}
+        - {x: 27.791958, y: 26.852417}
+    - name: skin_atlas_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 68
+        height: 180
+      alignment: 9
+      pivot: {x: 0.59068817, y: 0.8982737}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.166794, y: 18.31073}
+        - {x: -40.166794, y: -161.68927}
+        - {x: 27.833206, y: -161.68927}
+        - {x: 27.833206, y: 18.31073}
+    - name: skin_atlas_2
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 304
+        width: 78
+        height: 196
+      alignment: 9
+      pivot: {x: 0.4901172, y: 0.7989019}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.7708588, y: 39.415222}
+        - {x: -36.22914, y: 13.415222}
+        - {x: -38.22914, y: -11.584778}
+        - {x: -38.22914, y: -78.58478}
+        - {x: -10.229141, y: -156.58478}
+        - {x: 16.770859, y: -156.58478}
+        - {x: 39.77086, y: -142.58478}
+        - {x: 39.77086, y: 39.415222}
+    - name: skin_atlas_3
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 440
+        width: 94
+        height: 57
+      alignment: 9
+      pivot: {x: 0.31958786, y: 0.68933266}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.04126, y: 17.708038}
+        - {x: -30.04126, y: 1.7080383}
+        - {x: -30.04126, y: -38.29196}
+        - {x: -26.04126, y: -39.29196}
+        - {x: 54.95874, y: -39.29196}
+        - {x: 63.95874, y: -34.29196}
+        - {x: 63.95874, y: -14.291962}
+        - {x: 15.95874, y: 17.708038}
+    - name: skin_atlas_4
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 304
+        width: 81
+        height: 197
+      alignment: 9
+      pivot: {x: 0.39531642, y: 0.8091236}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.02063, y: 37.60266}
+        - {x: -32.02063, y: 2.6026611}
+        - {x: -32.02063, y: -123.39734}
+        - {x: 1.9793701, y: -159.39734}
+        - {x: 15.97937, y: -159.39734}
+        - {x: 45.97937, y: -131.39734}
+        - {x: 48.97937, y: -44.39734}
+        - {x: 48.97937, y: 37.60266}
+    - name: skin_atlas_5
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 308
+        width: 105
+        height: 112
+      alignment: 9
+      pivot: {x: 0.36051258, y: 0.093926564}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.85382, y: 101.480225}
+        - {x: -37.85382, y: 87.480225}
+        - {x: -37.85382, y: -7.5197754}
+        - {x: -23.85382, y: -10.519775}
+        - {x: 67.14618, y: -10.519775}
+        - {x: 67.14618, y: 101.480225}
+    - name: skin_atlas_6
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 102
+        width: 73
+        height: 189
+      alignment: 9
+      pivot: {x: 0.46832108, y: 0.88746536}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.18744, y: 14.269043}
+        - {x: -34.18744, y: -166.73096}
+        - {x: -30.187439, y: -167.73096}
+        - {x: 20.812561, y: -167.73096}
+        - {x: 37.81256, y: -149.73096}
+        - {x: 37.81256, y: 4.269043}
+        - {x: 36.81256, y: 14.269043}
+      - - {x: 35.81256, y: -133.73096}
+        - {x: 37.81256, y: -135.73096}
+        - {x: 38.81256, y: -135.73096}
+        - {x: 38.81256, y: -129.73096}
+        - {x: 35.81256, y: -130.73096}
+      - - {x: 24.812561, y: 21.269043}
+        - {x: 14.812561, y: 21.269043}
+        - {x: 14.812561, y: 20.269043}
+        - {x: 18.812561, y: 16.269043}
+        - {x: 28.812561, y: 11.269043}
+        - {x: 31.812561, y: 12.269043}
+        - {x: 31.812561, y: 15.269043}
+        - {x: 26.812561, y: 20.269043}
+      - - {x: -23.187439, y: 21.269043}
+        - {x: -25.187439, y: 19.269043}
+        - {x: -25.187439, y: 18.269043}
+        - {x: -23.187439, y: 16.269043}
+        - {x: -20.187439, y: 16.269043}
+        - {x: -17.187439, y: 19.269043}
+        - {x: -18.187439, y: 21.269043}
+    - name: skin_atlas_7
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 283
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: skin_atlas_8
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 141
+        width: 121
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 42.5, y: 75.5}
+        - {x: -36.5, y: 75.5}
+        - {x: -60.5, y: 48.5}
+        - {x: -60.5, y: -64.5}
+        - {x: -31.5, y: -75.5}
+        - {x: 50.5, y: -75.5}
+        - {x: 60.5, y: -54.5}
+        - {x: 60.5, y: 53.5}
+        - {x: 50.5, y: 69.5}
+    - name: skin_atlas_9
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 129
+        width: 105
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37.5, y: -79.5}
+        - {x: 37.5, y: -77.5}
+        - {x: 34.5, y: -76.5}
+        - {x: 32.5, y: -79.5}
+      - - {x: -52.5, y: 79.5}
+        - {x: -52.5, y: 17.5}
+        - {x: -42.5, y: -55.5}
+        - {x: -33.5, y: -69.5}
+        - {x: 36.5, y: -69.5}
+        - {x: 52.5, y: -63.5}
+        - {x: 52.5, y: 71.5}
+        - {x: 22.5, y: 79.5}
+    - name: skin_atlas_10
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 240
+        width: 94
+        height: 57
+      alignment: 9
+      pivot: {x: 0.29498583, y: 0.7163798}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.728668, y: 16.166351}
+        - {x: -27.728668, y: 3.1663513}
+        - {x: -27.728668, y: -40.83365}
+        - {x: 66.27133, y: -40.83365}
+        - {x: 66.27133, y: -8.833649}
+        - {x: 22.271332, y: 16.166351}
+    - name: skin_atlas_11
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 14
+        width: 183
+        height: 71
+      alignment: 9
+      pivot: {x: 0.09140623, y: 0.45657215}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 144.27266, y: 30.583378}
+        - {x: 129.27266, y: 38.583378}
+        - {x: -2.7273407, y: 38.583378}
+        - {x: -16.72734, y: 22.583378}
+        - {x: -16.72734, y: -23.416622}
+        - {x: -14.727341, y: -32.416622}
+        - {x: 149.27266, y: -32.416622}
+        - {x: 165.27266, y: -24.416622}
+        - {x: 166.27266, y: -20.416622}
+        - {x: 166.27266, y: 12.583378}
+      - - {x: 126.27266, y: 38.583378}
+        - {x: 126.27266, y: 36.583378}
+        - {x: 128.27266, y: 34.583378}
+        - {x: 131.27266, y: 34.583378}
+        - {x: 133.27266, y: 36.583378}
+        - {x: 133.27266, y: 38.583378}
+    - name: skin_atlas_12
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 10
+        width: 147
+        height: 74
+      alignment: 9
+      pivot: {x: 0.89853567, y: 0.4791666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -65.08475, y: -35.45833}
+        - {x: -58.084747, y: -35.45833}
+        - {x: -60.084747, y: -30.458328}
+        - {x: -62.084747, y: -30.458328}
+        - {x: -65.08475, y: -33.45833}
+      - - {x: -132.08475, y: -22.458328}
+        - {x: -132.08475, y: -28.458328}
+        - {x: -130.08475, y: -28.458328}
+        - {x: -128.08475, y: -26.458328}
+        - {x: -128.08475, y: -24.458328}
+        - {x: -130.08475, y: -22.458328}
+      - - {x: -132.08475, y: 38.54167}
+        - {x: -132.08475, y: -26.458328}
+        - {x: -32.084747, y: -26.458328}
+        - {x: 14.915253, y: -24.458328}
+        - {x: 14.915253, y: 38.54167}
+    - name: skin_atlas_13
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 51
+        width: 90
+        height: 179
+      alignment: 9
+      pivot: {x: 0.49143508, y: 0.8789666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.229156, y: 21.664978}
+        - {x: -44.229156, y: 1.664978}
+        - {x: -44.229156, y: -146.33502}
+        - {x: -40.229156, y: -157.33502}
+        - {x: 2.7708435, y: -157.33502}
+        - {x: 25.770844, y: -154.33502}
+        - {x: 45.770844, y: -72.33502}
+        - {x: 45.770844, y: 0.664978}
+        - {x: 16.770844, y: 21.664978}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
